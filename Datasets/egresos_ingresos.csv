@@ -1,0 +1,79 @@
+0|Fecha|Tipo|Categoria|Concepto|Cantidad
+1|1/7/2021|Egreso|Alimentos|Comidas fuera|$130.00
+2|1/7/2021|Egreso|Alimentos|Comidas fuera|$130.00
+3|1/7/2021|Egreso|Alimentos|Comidas fuera|$50.00
+4|1/7/2021|Egreso|Personal|Ropa|$641.00
+5|5/7/2021|Ingreso|Trabajo|Vales|$2,700.00
+6|6/7/2021|Egreso|Alimentos|Despensa|$348.00
+7|6/7/2021|Egreso|Alimentos|Despensa|$300.00
+8|7/7/2021|Egreso|Alimentos|Comidas fuera|$205.50
+9|7/7/2021|Egreso|Alimentos|Comidas fuera|$12.38
+10|8/7/2021|Egreso|Alimentos|Despensa|$925.37
+11|8/7/2021|Egreso|Alimentos|Comidas fuera|$200.00
+12|8/7/2021|Egreso|Hogar|Gas|$1,200.00
+13|9/7/2021|Egreso|Alimentos|Despensa|$1,191.78
+14|10/7/2021|Egreso|Seguros|Conexion GNP|$448.95
+15|14/07/2021|Egreso|Seguros|Retiro|$1,625.00
+16|15/07/2021|Ingreso|Trabajo|Sueldo|$14,560.00
+17|17/07/2021|Egreso|Alimentos|Despensa|$615.04
+18|17/07/2021|Egreso|Personal|Ropa|$533.00
+19|17/07/2021|Egreso|Personal|Ropa|$49.94
+20|28/07/2021|Egreso|Alimentos|Despensa|$72.80
+21|28/07/2021|Egreso|Alimentos|Despensa|$235.00
+22|29/07/2021|Egreso|Movilidad|Gasolina|$831.60
+23|29/07/2021|Egreso|Alimentos|Despensa|$130.00
+24|30/07/2021|Egreso|Salud|Gym|$314.91
+25|30/07/2021|Egreso|Alimentos|Despensa|$209.00
+26|31/07/2021|Egreso|Hogar|Internet|$599.00
+27|31/07/2021|Ingreso|Trabajo|Sueldo|$14,560.00
+28|31/07/2021|Ingreso|Trabajo|Bono|$830.00
+29|08/01/2021|Egreso|Alimentos|Comidas fuera|$310 
+30|08/01/2021|Egreso|Personal|Ropa|$641 
+31|08/06/2021|Egrero|Entretenimiento|Plataformas Streaming|$179 
+32|08/06/2021|Egreso|Personal|Facebook|$300 
+33|08/06/2021|Egreso|Alimentos |Comidas fuera|$220 
+34|06/15/2021|Ingresos|Trabajo|Sueldo|$14,560.00
+35|06/30/2021|Ingresos|Trabajo|Sueldo|$14,560.00
+36|06/30/2021|Ingresos|Trabajo|Vales|$2,740.00
+37|06/30/2021|Ingresos|Trabajo|Bono|$830
+38|06/01/2021|Egreso|Hogar|Renta|$6,000
+39|06/04/2021|Egreso|Hogar|Internet|$600
+40|06/15/2021|Egreso|Entretenimiento|Plataformas streaming |$400
+41|06/30/2021|Egreso|Hogar|Gas|$500
+42|06/20/2021|Egreso|Hogar|Electricidad|$200
+43|30/06/2021|Egreso|Seguros|SGM Conexion|$450
+44|30/06/2021|Egreso|Seguros|Retiro|$1,650
+45|01/06/2021|Egreso|Salud|Gym|$700
+46|30/06/2021|Egreso|Alimentos|Despensa|$7,500
+47|30/06/2021|Egreso|Movilidad|Mantenimiento|$700
+48|04/06/2021|Egreso|Deudas|Prestamo|$3,450
+49|04/06/2021|Egreso|Deudas|Tarjetas|$3,000
+50|13/06/2021|Egreso|Entretenimiento|Salidas|$800
+51|25/06/2021|Egreso|Salud|Doctor|$1,500
+52|29/06/2021|Egreso|Alimentos|Comidas fuera|$1,500.00
+53|11/06/2021|Egreso|Movilidad |Gasolina|$2,300
+54|18/06/2021|Egreso|Hogar|Reparaciones|$900
+55|15/06/2021|Egreso|Hogar|Artículos de hogar|$500
+56|26/06/2021|Egreso|Salud|Medicametos|$800
+57|15/05/2021|Ingresos|Trabajo|Sueldo|$14,560.00
+58|30/05/2021|Ingresos|Trabajo|Sueldo|$14,560.00
+59|30/05/2021|Ingresos|Trabajo|Vales|$2,740.00
+60|30/05/2021|Ingresos|Trabajo|Bono|$830
+61|01/05/2021|Egreso|Hogar|Renta|$6,000
+62|04/05/2021|Egreso|Hogar|Internet|$600
+63|15/05/2021|Egreso|Entretenimiento|Plataformas streaming |$400
+64|30/05/2021|Egreso|Hogar|Gas|$450
+65|20/05/2021|Egreso|Hogar|Electricidad|$180
+66|30/05/2021|Egreso|Seguros|SGM Conexion|$450
+67|30/05/2021|Egreso|Seguros|Retiro|$1,650
+68|01/05/2021|Egreso|Salud|Gym|$700
+69|30/05/2021|Egreso|Alimentos|Despensa|$8,300
+70|30/05/2021|Egreso|Movilidad|Mantenimiento|$700
+71|04/05/2021|Egreso|Deudas|Prestamo|$3,450
+72|04/05/2021|Egreso|Deudas|Tarjetas|$3,000
+73|13/05/2021|Egreso|Entretenimiento|Salidas|$900
+74|25/05/2021|Egreso|Salud|Doctor|$500
+75|29/05/2021|Egreso|Alimentos|Comidas fuera|$900.00
+76|11/05/2021|Egreso|Movilidad |Gasolina|$1,800
+77|26/05/2021|Egreso|Salud|Medicametos|$200
+78|26/05/2021|Egreso|Prestamo|Prestamo familiar|$3,000
